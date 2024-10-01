@@ -30,6 +30,9 @@
 /* 1. Defaults & Reset of specific styles across browsers */
 /*------------------------------------------------------------------------------------------*/
 
+
+
+
 *, *:before, *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1067,6 +1070,11 @@ blockquote {
     top: 50%;
     left: 50%;
 }
+
+
+
+
+
 
 /**
  * Featherlight – ultra slim jQuery lightbox
@@ -2118,6 +2126,8 @@ blockquote {
         transform: translate(220%, 220%);
     }
 }
+
+
 
 /*------------------------------------------------------------------------------------------*/
 /* Responsive Elements */
